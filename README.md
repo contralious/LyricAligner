@@ -7,7 +7,7 @@ It is far from perfect, but for my use, it does a great job for not as popular s
 This is a spicetify plugin based on [The standalone popup lyrics](https://github.com/spicetify/cli/blob/main/Extensions/popupLyrics.js) (the standalone version is great, much love to the person who made it!!)
 
 
-# ** 1.) Prerequisites **
+#  1.) Prerequisites 
 
 Make sure you have the following installed on your system:
 - **[Spicetify](https://spicetify.app/)**
@@ -17,7 +17,7 @@ Make sure you have the following installed on your system:
   - **macOS:** `brew install ffmpeg`
   - **Linux:** `sudo apt install ffmpeg`
 
-# ** 2.) Installing the backend server **
+#  2.) Installing the backend server 
 
 1. **Clone or download this repository:**
    ```bash
@@ -40,7 +40,7 @@ Make sure you have the following installed on your system:
 
 ---
 
-# ** 3. Installing the Spicetify Extension **
+#  3. Installing the Spicetify Extension 
 
 1. **Locate your Spicetify `Extensions` folder:**
    - **Windows:** Run `explorer (spicetify path extensions)` in PowerShell, or navigate to `%userprofile%\.spicetify\Extensions`
@@ -57,7 +57,7 @@ Make sure you have the following installed on your system:
 
 ---
 
-# ** 4. How to Use **
+#  4. How to Use 
 
 1. Open Spotify and start playing a song.
 2. Click the **Popup Lyrics** icon in the top navigation bar to open the lyric window.
