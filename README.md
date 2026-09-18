@@ -26,7 +26,7 @@ Make sure you have the following installed on your system:
 
 1. **Clone or download this repository:**
    ```bash
-   git clone https://github.com/your-username/LyricAligner.git
+   git clone https://github.com/contralious/LyricAligner.git
    cd LyricAligner
    ```
 
