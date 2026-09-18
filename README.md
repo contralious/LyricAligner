@@ -52,7 +52,7 @@ Make sure you have the following installed on your system:
    - **macOS / Linux:** `~/.config/spicetify/Extensions`
 
 2. **Replace `popupLyrics.js`:**
-   Copy the modified `popupLyrics.js` from this repo and place it inside your `Extensions` folder (overwrite the existing file).
+   Copy the modified `popupLyrics.js` from this repo and place it inside your `Extensions` folder (overwrite the existing file or just place it there).
 
 3. **Apply Spicetify changes:**
    Open your terminal and run:
