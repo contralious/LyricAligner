@@ -1,6 +1,6 @@
 # LyricAligner
 > [!NOTE]
-> It is far from perfect, but for my use, it does a great job for not as popular songs that don't have as good lyrics as more popular ones.
+> It is NOT perfect, but for my use, it does a great job for not as popular songs that don't have as good lyrics as more popular ones.
 
 Takes LRCLIB, Spotify, Musixmatch and NetEase lyrics, gets the current played song's mp3 file using yt-dlp, then runs it through a light speech recognition model.
 
@@ -8,8 +8,6 @@ In short, it takes the human precision for the words, and machine precision for 
 
 
 *Currently is set for English, Czech and Slovak, but that can be easily changed in code.*
-
-It is far from perfect, but for my use, it does a great job for not as popular songs that dont have as good lyrics as more popular ones.
 
 **This is a spicetify plugin based on [The standalone popup lyrics](https://github.com/spicetify/cli/blob/main/Extensions/popupLyrics.js) (the standalone version is great, much love to the [person who made it](https://github.com/mantou132/Spotify-Lyrics)!!)**
 
