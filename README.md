@@ -70,9 +70,14 @@ Make sure you have the following installed on your system:
 
   
 
- 🙏 Credits & Acknowledgments
+# 🙏 Credits & Acknowledgments
+
 **[khanhas](https://github.com/khanhas)** for creating Spicetify and the original `popupLyrics` extension.
+
 **[mantou132](https://github.com/mantou132/Spotify-Lyrics)** for the original lyric rendering UI foundation.
+
 **[kyrie25](https://github.com/kyrie25)** and the **[Spicetify Team](https://github.com/spicetify)** for maintaining the Spicetify ecosystem.
+
 **[jianfch](https://github.com/jianfch/stable-ts)** for `stable-ts` (Whisper forced alignment).
+
 **[yt-dlp](https://github.com/yt-dlp/yt-dlp)** for audio streaming extraction.
